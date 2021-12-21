@@ -149,7 +149,7 @@ The bloodOak Tree is the fifth woodcutting activity the player can do. It is als
 
 ### Fishing
 
-Fishing is a gathering skill which has a amx level of 99. There are multiple tiers of fish you can catch which is gated by your fishing level and your fishing rod. Some techniques may require bait purchasable from the market or gatherable from other skills namely foraging.
+Fishing is a gathering skill which has a max level of 99. There are multiple tiers of fish you can catch which is gated by your fishing level and your fishing rod. Some techniques may require bait purchasable from the market or gatherable from other skills namely foraging.
 
 a tip
 
