@@ -2,7 +2,7 @@
 
 Sennwyr is the region the game takes place in.
 
-![Sennwyr map](../img/sennwyr.png)
+![Sennwyr map](../img/sennwyrmap.png)
 
 
 ### Shroud
