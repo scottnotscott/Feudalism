@@ -7,3 +7,5 @@ to run locally.
 https://github.com/scottnotscott/Feudalism
 
 Access the live version here: https://feudalism.readthedocs.io/
+
+Master is the contents generated after running `mkdocs build`
