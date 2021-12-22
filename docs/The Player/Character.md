@@ -11,15 +11,12 @@ OK. Don't panic. You've signed up, logged in and are presented with a village se
 
 Now you've got your village selected, one of the most important things to know is how can I ask for help or recieve support? Well that's quite simple. You can use the TavernChat icon to speak to the members of your village (your allies). OR you can use the HelpChat channel located next to the WorldChat channel on any page of the site. If you are stuck, or need general in-game advice generally out of character then you can use the help chat. This is a global chat for immediate support from knowledgeable players. If you're not getting help in-game, then we apologise. You can reach out to us here: help@feud.org or you can join our discord by clicking this link: [discord](https://discord.gg/VMteEDpp).
 
-With that out the way it's time to take a look at some of the game Mechanics. There's a number of ways you can play this game but for most of them you're going to need a bit of money.
-
-## Getting money
-
-To get money, visit the slayer tab and select the lowest tier monster you can see. Click it to enter turn based combat. Each turn you will have a 30 second window to select your ability or weapon. If you fail to do so one will be selected for you automatically (you can set this in the settings). At first you will have no weapons, but you can still punch the basic monster to death. If you need to heal you can select the healing potion (sm) in your inventory on your turn, doing so will consume it, and spend your turn using that item on yourself. Once the monster is dead, check the loot drops you got and then select the Trader window. You can sell your goods here for a reasonable price to get some starting currency. It's from this NPC you can then purchase some tools to get you started with other skills. Buy any hatchet, pickaxe, net & rod you can afford. You will need one of each if you wish to participate in any of the gathering skills. 
+With that out the way it's time to take a look at some of the game Mechanics. 
 
 ## Skills
 
 Skills in this game have two categories. Skills you get resources from are called Gathering skills. This includes: Woodcutting, Fishing, Mining & Foraging. Skills you may spend resources on are known as Artisan skills this includes: Crafting (leatherworks, gemworks), Smithing (metalworks), Alchemy (herbworks). 
+Each skill has a skill level and experience value. Content often has level requirements before you can engage with it. Participate in activities for each skill by visiting the skill page. You will then see a list of activities you meet the level requirement for. Each skill has a maximum level of 99. Content that requires a level to unlock will typically provide greater XP rewards as well as loot. Artisan skills provide the player with a way to craft items useful in combat and skilling.
 
 #### Gathering skills
 
