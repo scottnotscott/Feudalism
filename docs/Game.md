@@ -1,4 +1,6 @@
-## Villages
+##
+
+### Villages
 
 In the world of Senwyr there are four Villages or Cities.(We haven't decided on a name yet.)
 

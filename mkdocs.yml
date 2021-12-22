@@ -1,7 +1,7 @@
 site_name: Feudalism
 site_url: https://feud.json.scot/
 theme:
-  logo: assets/logo.png
+  logo: img/logo.png
   name: readthedocs
   palette:
     scheme: default

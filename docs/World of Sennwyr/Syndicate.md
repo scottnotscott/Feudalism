@@ -1,1 +1,0 @@
-Located in the center of the world, Syndicate the fallen capital of Sennwyr.

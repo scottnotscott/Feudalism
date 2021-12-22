@@ -1,2 +1,0 @@
-The south-western most Village in Sennwyr, famous for their alchemical brewing. Notoriously difficult to get to, even harder to get away from.
-Players of this village can experience a multitude of interesting things. Such as affinity to poison, alchemy and heritage.
