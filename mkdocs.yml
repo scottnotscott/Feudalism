@@ -1,5 +1,7 @@
 site_name: Feudalism
 site_url: https://feud.json.scot/
+site_author: Scott Graham, Jason Hewitt
+copyright: Play <a href="https://feud.json.scot/">Feudalism</a> now. Join us on <a href="https://discord.gg/VMteEDpp">Discord</a>. Developed by <a href="https://twitter.com/smtmssctsmtmsnt">smtmssctsmtmsnt</a> & <a href="https://twitter.com/BowedYapper">BowedYapper</a>.
 theme:
   logo: img/logo.png
   name: readthedocs
