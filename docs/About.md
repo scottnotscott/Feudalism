@@ -8,7 +8,7 @@ Those who find themselves within Senwyr have a multitude of ways to play the gam
 # Developers
 
 The game is built by two Students in the Highlands of Scotland, Jason & Scott. 
-Our developer team is likely to remain small but we are always open to suggestions on how to improve our development process or the game its self so feel free to contact us feedback@feud.org
+Our developer team is likely to remain small but we are always open to suggestions on how to improve our development process or the game its self so feel free to contact us feedback@json.scot
 
 # The Team
 
@@ -25,4 +25,4 @@ The community team is responsible for shaping the community, ensuring the player
 
 
 ### Join us
-We are looking for more members of the public to take part in balancing discussions, we urge you to contact us at balancing@feud.org
+We are looking for more members of the public to take part in balancing discussions, we urge you to contact us at balancing@json.scot
