@@ -73,6 +73,8 @@ Skill information:
 
 #### Oak Tree
 
+![Oak Tree](../img/oak.png)
+
     id: 1,
     name: 'Oak Tree',
     examine: 'An Oak tree, provides Oak Logs.',
@@ -87,6 +89,8 @@ Skill information:
 The Oak tree is the first woodcutting activity the player can do. However it is very useful. Oak is a valuable component for the village supply. The emperor of the village can use this to provide buffs to the villagers which are useful for activities such as war or resource masses. Oak logs can be used in the crafting skill, can be donated to the village as a resource or can be sold on the marketplace. It has many uses. The higher your woodcutting the level the higher the success chance of cutting the tree is. The Woodcutting potion created using the Alchemy skill gives the player a buff to the mining skill providing experience boosts for a period of time. The player can acquire buffs for all of their skills and most of these are created in Alchemy.
 
 #### Willow Tree
+
+![Willow Tree](../img/willow.png)
 
     id: 2,
     name: 'Willow Tree',
@@ -103,6 +107,8 @@ The Willow tree is the second woodcutting activity the player can do. It generat
 
 #### Pine Tree
 
+![Pine Tree](../img/pine.png)
+
     id: 3,
     name: 'Pine Tree',
     examine: 'A Pine tree, provides Pine Logs.',
@@ -117,6 +123,8 @@ The Willow tree is the second woodcutting activity the player can do. It generat
 The Pine tree is the third woodcutting activity the player can do. It generates the Pine log resource which isn't very useful, it does however provide very good experience. It cannot be donated to the village supply, it can however be sold on the marketplace to players or to an NPC.
 
 #### Mahogany Tree
+
+![Mahogany Tree](../img/mahogany.png)
 
     id: 4,
     name: 'Mahogany Tree',
@@ -133,6 +141,8 @@ The Pine tree is the third woodcutting activity the player can do. It generates 
 The Mahogany tree is the fourth woodcutting activity the player can do. It generates the Mahogony log resource which is useful. It can be used with the foraging skill, it can also be sold on the marketplace.
 
 #### The BloodOak Tree
+
+![Bloodoak Tree](../img/bloodoak.png)
 
     id: 5,
     name: 'BloodOak Tree',
