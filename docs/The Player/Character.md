@@ -1,9 +1,8 @@
 # Character
 
-First of all, welcome to the game.
+Welcome to the game.
 
-When creating a new character in Feudalism you will have to select your village. 
-Villages have various different themes, economies and strength in war. Largely dependant on the residents of the village and the competency of the clans and leaders of those villages. The four villages of Sennwyr are Shroud, Konoki, Current & Syndicate. You can read more about the villages [Here](../The%20World/Sennwyr.md).
+One of the first things you have to do as a new player is select a village. This is an important step and the beginning of your journey in Sennwyr. Each village is unique, so you should be careful which one you pick. 
 
 ## Beginners first steps
 
