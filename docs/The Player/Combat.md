@@ -21,37 +21,56 @@ Combat will end when a player spends an action on the ability 'Flee' which every
 
 ```
 /*
-* Player1 and Player2 each turn will select 3 actions.
+* Player1 and Player2 each turn will  have 
+* 30 seconds to select 3 actions.
 * The turn system then executes each players action
 * one after the other until all actions have complete
 * it then moves to turn 2 where it repeats the sequence
 * until someone either flees or dies.
+* Each action can be anything you can normally do in combat
+* Such as attempting to flee, using abilities to attack, buff or heal and calling for help
 */
 
 |---------------------------------|
 | Player1 -> Engages -> Player2   |
-|--------------TURN 1-------------|
-| Player1 Action1: Buff Magic     |
-| Player2 Action1: Melee Ability  |
+|       MOVE SELECTION STAGE      |
+|-----------TURN 1 START----------|
+| Player1 Action1: Buff Magic     | <-- Player1 selected to buff their Magic stat with an ability first
+| Player2 Action1: Melee Ability  | <-- Player2 selected to attack Player1 using a Melee ability first
 |               ---               |
-| Player1 Action2: Buff Defence   |
-| Player2 Action2: Buff Melee     |
+| Player1 Action2: Buff Defence   | <-- Player1 selected to buff their Defence stat with an ability second
+| Player2 Action2: Buff Melee     | <-- Player2 selected to buff their Melee stat with an ability second
 |               ---               |
-| Player1 Action3: Magic Ability  |
-| Player2 Action3: Melee Ability  |
-|--------------TURN 1-------------|
+| Player1 Action3: Magic Ability  | <-- Player1 selected to attack Player2 using a Magic ability third
+| Player2 Action3: Melee Ability  | <-- Player2 selected to attack Player1 using a Melee ability third
+|---------------------------------|
+
+/*
+* 30 seconds have now elapsed and the turn selection stage is over
+* the selected actions are then executed in order dictated by the aggressor
+* The aggressor due to attacking first has their turn execute first
+*/
 
 |---------------------------------|
-|         Combat Continues        |
-|--------------TURN 2-------------|
-| Player1 Action1: Buff Magic     |
-| Player2 Action1: Melee Ability  |
+|         EXECUTION STAGE         |
+|---------------------------------|
+|    Executes Player1 Action1     | <-- Player1 uses Buff Magic ability increasing their Magic stat
+|    Executes Player2 Action1     | <-- Player2 uses Melee ability deals dmg to Player1
 |               ---               |
-| Player1 Action2: Buff Defence   |
-| Player2 Action2: Buff Melee     |
+|    Executes Player1 Action2     | <-- Player1 uses Buff Defence ability increasing their Defence stat
+|    Executes Player2 Action2     | <-- Player2 uses Buff Melee ability increasing their Melee stat
 |               ---               |
-| Player1 Action3: Magic Ability  |
-| Player2 Action3: Melee Ability  |
-|--------------TURN 2-------------|
+|    Executes Player1 Action3     | <-- Player1 uses Magic ability deals dmg to Player2
+|    Executes Player2 Action3     | <-- Player2 uses Melee ability deals damage to Player1
+|------------TURN 1 END-----------|
+
+/* 
+* This is Turn One in its entirety.
+* Turn Two would begin next with
+* the players having 30 seconds to choose
+* their next 3 actions.
+* Reminder: Players can use abilities, eat food, drink potions, flee & call for help during combat.
+* Each of the above consumes one action. 
+*/
 
 ```
