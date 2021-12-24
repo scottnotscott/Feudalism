@@ -1,7 +1,7 @@
 # About
 
 To play the game please visit: [feud.json.scot](https://feud.json.scot/).
-An MMORPG built right into the Browser.
+An MMORPG Diplomacy sim built right into the Browser.
 Featuring the five cities of sennwyr equipped with a robust diplomacy system, players will find themselves taking part in quests, player-to-player and player-environment combat, monsters to bosses, dungeons and raids.
 Those who find themselves within sennwyr have a multitude of ways to play the game the way they want to play. Diverse playstyles, group activities and roleplaying are encouraged and many of the mechanics are intended to facilitate this.
 
