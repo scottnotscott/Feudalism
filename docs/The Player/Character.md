@@ -31,6 +31,8 @@ Here's a quick table of planned skills and their Categories:
             Magic
         Defensive
             Defence
+            Hitpoints
+            Resistance
 
 
 
