@@ -1,23 +1,9 @@
-<h1> Player vs Player </h1>
+<h1> Combat General Information </h1>
 
-```
-Player1(experienced)          Player2(noob)
-                ===TURN ONE===
-Action1: Raised def        Action1: Attack enemy
-Action2: Raised atk        Action2: Attack enemy
-Action3: Attack enemy      Action3: Attack enemy
-                ===TURN TWO===
-Action1: Healing Pot    Action1: Attack enemy
-Action2: Attack enemy   Action2: Heal ability
-Action3: Call for help  Action3: Raised def
-                ===TURN 3===                      <=== Player3 *joined player1's call for help
-Action1: Attack enemy   Action1: Attack enemy          Action1: Heal player1
-Action2: Attack enemy   Action2: Attack enemy          Action2: Attack enemy
-Action3: Attack enemy   Action3: Attack enemy          Action3: Attack enemy
-```
+The player has a number of combat related stats, they are Melee, Range & Magic stats for combat offensiveness. And Defence and Resistance for combat defensiveness. They can each be trained to 99. You can experience in combat stats by using the specific attack style e.g. using magic in combat with NPC's and real players will gain you magic experience. The amount of experience earned in combat depends on a number of things but mainly the respective total level of the NPC or player that you are in combat with. You will have weapons and armour to augment your stats. Some items may provide additional abilities that can be used in combat. Some abilities will be much harder to get than others. Some ways you might unlock new abilities are: Completing Quests, Defeating Bosses and more.
+Combat will end when a player spends an action on the 'Flee' ability. This will attempt to disengage the user from Combat. Should a battle commence and nobody flees then the victor is decided by death. Players have access a number of ways to support themselves in combat, Alchemy can be trained to give the user access to powerful temporary elixirs.
 
-Players will have access to a number of abilities that can be unlocked by levels or by achieving game specific things. Some abilities will be much harder to get than others. Some ways you might unlock new abilities are: Completing Quests, Defeating Bosses and more.
-Combat will end when a player spends an action on the ability 'Flee' which every player starts with. This will attempt to disengage the user from Combat. Should a battle commence and nobody flees then the victor is decided by death. Players have access a number of ways to support themselves in combat, Alchemy can be trained to give the user access to powerful temporary elixirs. If you are dying in combat too much 
+<h2> Player Vs Player Flow </h2>
 
 ```
 /*
@@ -74,3 +60,25 @@ Combat will end when a player spends an action on the ability 'Flee' which every
 */
 
 ```
+```
+Turn 1
+    Player 1 does action1
+        then
+            Player2 does action1
+                then 
+                    Player1 does action2
+                        then
+                            Player2 does action2
+                                then
+                                    Player1 does action3
+                                        then
+                                            Player2 does action3
+```
+
+You choose to attack another player.
+You select 3 actions for turn 1, click lock in, 
+it does your first action, then the enemies first action, 
+then your second action then the enemies second action, 
+does ur third action then does enemy third action, 
+turn 2 starts, select 3 more moves
+repeat until someone dies or flees
