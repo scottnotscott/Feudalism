@@ -1,0 +1,80 @@
+# Woodcutting
+
+```js
+const woodcuttingData = {
+    name: "woodcutting",
+    type: "gathering",
+    definitions:
+      [
+        {
+          tree_id: 1,
+          name: "Oak",
+          levelRequirement: 1,
+          description: "Cut down Oak trees",
+          xp: 10,
+          time: 10,
+          enabled: true,
+          possibleRewards: [],
+        },
+        {
+          tree_id: 2,
+          name: "Birch",
+          levelRequirement: 15,
+          description: "Cut down Birch trees",
+          xp: 30,
+          time: 10,
+          enabled: true,
+          possibleRewards: [],
+        },
+        {
+          tree_id: 3,
+          name: "Maple",
+          levelRequirement: 15,
+          description: "Cut down Maple trees",
+          xp: 30,
+          time: 10,
+          enabled: true,
+          possibleRewards: [],
+        },
+        {
+          tree_id: 4,
+          name: "Willow",
+          levelRequirement: 50,
+          description: "Cut down Willow trees",
+          xp: 90,
+          time: 10,
+          enabled: true,
+          possibleRewards: [],
+        },
+        {
+          tree_id: 5,
+          name: "Peach",
+          levelRequirement: 65,
+          description: "Cut down Peach trees",
+          xp: 110,
+          time: 10,
+          enabled: true,
+          possibleRewards: [],
+        },
+        {
+          tree_id: 6,
+          name: "BloodOak",
+          levelRequirement: 15,
+          description: "Cut down BloodOak trees",
+          xp: 135,
+          time: 10,
+          enabled: true,
+          possibleRewards: [],
+        },
+        {
+          tree_id: 7,
+          name: "Yoshino",
+          levelRequirement: 15,
+          description: "Cut down Yoshino trees",
+          xp: 155,
+          time: 10,
+          possibleRewards: [],
+        },
+      ],
+  };
+  ```

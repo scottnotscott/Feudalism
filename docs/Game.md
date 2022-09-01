@@ -2,7 +2,7 @@
 
 ### Villages
 
-In the world of Senwyr there are four Villages or Cities.(We haven't decided on a name yet.)
+In the world of sennwyr there are four Villages or Cities.(We haven't decided on a name yet.)
 
 Each village is unique, they will have their own economies. Villages demand a group effort for common goal. Benefiting the village overall will directly benefit members of that Village.
 Each village will have a number of Clans/Factions (Which are combat focussed teams) which relate to war and the raiding of enemy villages.
